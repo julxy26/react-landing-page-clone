@@ -14,6 +14,7 @@ root.render(
           font-family: 'DM Sans', sans-serif;
           color: white;
           text-decoration: none;
+          z-index: 2;
         }
       `}
     />
